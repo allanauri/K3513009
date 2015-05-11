@@ -1,5 +1,4 @@
 //Ini ditambahkan oleh K3513009
-//Ini juga ditambahkan oleh K3513009
 <?php
 
 /*
